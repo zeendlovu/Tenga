@@ -1,0 +1,219 @@
+body{
+	margin: 20px;
+	padding: 0;
+	font-family: Agency FB; 
+}
+
+img{
+	margin-right: 0;
+	height: 18px;
+	width: 18px;
+}
+
+.main-nav {
+	list-style-type: none;
+	width: 100%;
+	height: 50px;
+}
+
+.main-nav li {
+	display: inline-block;
+	margin: 8px;
+	padding: 5px;
+}
+.main-nav li a {
+	color: black;
+	padding: 0px;
+	font-size: 24px;
+	text-decoration: none;
+	margin-right: 30px;
+	transition: 0.6s ease;
+}
+
+.main-nav li.active a{
+	color: rgb(128,0,37);
+	border-bottom: 2px solid black;
+}
+
+.main-nav li:hover a{
+	border-bottom: 2px solid black;
+}
+
+#smart {
+	width: 99%;
+	height: 300px;
+	display: inline-block;
+	background-color: #b0e0e6;
+    font-size: 35px;
+    line-height: 400px;
+    letter-spacing: 2.5px;
+    color: #ffffff;
+    margin: 12px;
+}
+
+.rowa
+{
+	position: relative;
+	width: 1100px;
+	height: 250px;
+	margin: 170px auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.rowa .box
+{
+	position: relative;
+	float: left;
+	margin: 100px;
+	box-sizing: border-box;
+	overflow: hidden;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.rowb
+{
+	position: relative;
+	width: 1100px;
+	height: 330px;
+	margin: 400px auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.rowb .box
+{
+	position: relative;
+	float: left;
+	margin: 100px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.rowc
+{
+	position: relative;
+	width: 1100px;
+	height: 120px;
+	margin: 380px auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.rowc .box
+{
+	position: relative;
+	float: left;
+	margin: 100px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.rowd
+{
+	position: relative;
+	width: 1100px;
+	height: 330px;
+	margin: 380px auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.rowd .box
+{
+	position: relative;
+	float: left;
+	margin: 100px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.rowe
+{
+	position: relative;
+	width: 1100px;
+	height: 120px;
+	margin: 380px auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.rowe .box
+{
+	position: relative;
+	float: left;
+	margin: 100px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.rowf
+{
+	position: relative;
+	width: 1100px;
+	height: 330px;
+	margin: 380px auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.rowf .box
+{
+	position: relative;
+	float: left;
+	margin: 100px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.smartphones{
+	float: right;
+	margin-top: 70px;
+	margin-right: 50px;
+}
+
+.card {
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: Agency FB;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+  font-family: Agency FB;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+footer{
+	padding: 10px;
+	display: flex;
+}
+img{
+	margin: 10px;
+}
+#tou{
+	text-decoration: none;
+	color: rgb(100,0,50);
+}
+p{
+	font-size: 16px;
+	font-family: arial;
+	text-align: center;
+}
